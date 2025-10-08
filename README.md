@@ -28,16 +28,4 @@ Bigger budgets usually lead to higher revenues, and popular movies (votes) often
 
 ---
 
-## Project Structure
-
-├─ data/
-│ └─ movies.csv
-├─ notebooks/
-│ └─ movies.ipynb
-├─ reports/
-│ └─ corr_heatmap.png
-└─ README.md
-
-
----
 
